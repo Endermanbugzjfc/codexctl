@@ -1,0 +1,222 @@
+{
+  "fetchPipMetadata": {
+    "sources": {
+      "bcrypt": {
+        "is_direct": false,
+        "sha256": "611f0a17aa4a25a69362dcc299fda5c8a3d4f160e2abb3831041feb77393a14a",
+        "type": "url",
+        "url": "https://files.pythonhosted.org/packages/d4/8d/5e43d9584b3b3591a6f9b68f755a4da879a59712981ef5ad2a0ac1379f7a/bcrypt-5.0.0-cp39-abi3-manylinux_2_34_x86_64.whl",
+        "version": "5.0.0"
+      },
+      "cachetools": {
+        "is_direct": false,
+        "sha256": "861f35a13a451f94e301ce2bec7cac63e881232ccce7ed67fab9b5df4d3beaa1",
+        "type": "url",
+        "url": "https://files.pythonhosted.org/packages/a2/91/2d843adb9fbd911e0da45fbf6f18ca89d07a087c3daa23e955584f90ebf4/cachetools-5.3.2-py3-none-any.whl",
+        "version": "5.3.2"
+      },
+      "certifi": {
+        "is_direct": false,
+        "sha256": "0f212c2744a9bb6de0c56639a6f68afe01ecd92d91f14ae897c4fe7bbeeef0de",
+        "type": "url",
+        "url": "https://files.pythonhosted.org/packages/e4/37/af0d2ef3967ac0d6113837b44a4f0bfe1328c2b9763bd5b1744520e5cfed/certifi-2025.10.5-py3-none-any.whl",
+        "version": "2025.10.5"
+      },
+      "cffi": {
+        "is_direct": false,
+        "sha256": "3e17ed538242334bf70832644a32a7aae3d83b57567f9fd60a26257e992b79ba",
+        "type": "url",
+        "url": "https://files.pythonhosted.org/packages/78/2d/7fa73dfa841b5ac06c7b8855cfc18622132e365f5b81d02230333ff26e9e/cffi-2.0.0-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.whl",
+        "version": "2.0.0"
+      },
+      "charset-normalizer": {
+        "is_direct": false,
+        "sha256": "1606f4a55c0fd363d754049cdf400175ee96c992b1f8018b993941f221221c5f",
+        "type": "url",
+        "url": "https://files.pythonhosted.org/packages/16/ab/0233c3231af734f5dfcf0844aa9582d5a1466c985bbed6cedab85af9bfe3/charset_normalizer-3.4.3-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl",
+        "version": "3.4.3"
+      },
+      "crcmod": {
+        "is_direct": false,
+        "sha256": "dc7051a0db5f2bd48665a990d3ec1cc305a466a77358ca4492826f41f283601e",
+        "type": "url",
+        "url": "https://files.pythonhosted.org/packages/6b/b0/e595ce2a2527e169c3bcd6c33d2473c1918e0b7f6826a043ca1245dd4e5b/crcmod-1.7.tar.gz",
+        "version": "1.7"
+      },
+      "cryptography": {
+        "is_direct": false,
+        "sha256": "53f23339864b617a3dfc2b0ac8d5c432625c80014c25caac9082314e9de56f41",
+        "type": "url",
+        "url": "https://files.pythonhosted.org/packages/6d/b9/8be0ff57c4592382b77406269b1e15650c9f1a167f9e34941b8515b97159/cryptography-44.0.1-cp39-abi3-manylinux_2_34_x86_64.whl",
+        "version": "44.0.1"
+      },
+      "ext4": {
+        "is_direct": false,
+        "sha256": "b15ce5cdca8d61f6d3ddda11ab61330496d0249047db488aaa591b1d6987a94e",
+        "type": "url",
+        "url": "https://files.pythonhosted.org/packages/cf/9b/1a4176378e7d196da4effd75e5b6216cae9e59b45088b7a96607957d8bc0/ext4-1.0.6-py3-none-any.whl",
+        "version": "1.0.6"
+      },
+      "fuse-python": {
+        "is_direct": false,
+        "sha256": "9f243675b99f4d448f8ec8ac52758f43b410cbcd3ff35d7754565d425200ccdd",
+        "type": "url",
+        "url": "https://files.pythonhosted.org/packages/e3/e5/1d3555123cec1f6c677919f2ac601059ce291a50d8f6b11926a5314e7d59/fuse_python-1.0.9-cp312-cp312-manylinux_2_28_x86_64.whl",
+        "version": "1.0.9"
+      },
+      "idna": {
+        "is_direct": false,
+        "sha256": "946d195a0d259cbba61165e88e65941f16e9b36ea6ddb97f00452bae8b1287d3",
+        "type": "url",
+        "url": "https://files.pythonhosted.org/packages/76/c6/c88e154df9c4e1a2a66ccf0005a88dfb2650c1dffb6f5ce603dfbd452ce3/idna-3.10-py3-none-any.whl",
+        "version": "3.10"
+      },
+      "indexed-gzip": {
+        "is_direct": false,
+        "sha256": "3f5368913789ca61854e0f6b21c207fcecb28ad58ae812aac6f5c5f1f97a09c2",
+        "type": "url",
+        "url": "https://files.pythonhosted.org/packages/2b/93/979e425bfcc4be4679a9c260f9b1056230880e58126552fe4e20c018d126/indexed_gzip-1.8.7-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+        "version": "1.8.7"
+      },
+      "libconf": {
+        "is_direct": false,
+        "sha256": "b9e9bc79d0e22a9c6239a16cd8ecf198114395c4365b9fb62c39cffff0593ffc",
+        "type": "url",
+        "url": "https://files.pythonhosted.org/packages/0b/c1/f3345223779616ef4df444a5721123cc84bf45b5b56d6f6efba62bf83383/libconf-2.0.1-py2.py3-none-any.whl",
+        "version": "2.0.1"
+      },
+      "loguru": {
+        "is_direct": false,
+        "sha256": "31a33c10c8e1e10422bfd431aeb5d351c7cf7fa671e3c4df004162264b28220c",
+        "type": "url",
+        "url": "https://files.pythonhosted.org/packages/0c/29/0348de65b8cc732daa3e33e67806420b2ae89bdce2b04af740289c5c6c8c/loguru-0.7.3-py3-none-any.whl",
+        "version": "0.7.3"
+      },
+      "paramiko": {
+        "is_direct": false,
+        "sha256": "8e49fd2f82f84acf7ffd57c64311aa2b30e575370dc23bdb375b10262f7eac32",
+        "type": "url",
+        "url": "https://files.pythonhosted.org/packages/96/6e/4a52a8923d840107024b844d83502dfa6a1e5399ad31cf9d1a4ddbaaa7e5/paramiko-3.4.1-py3-none-any.whl",
+        "version": "3.4.1"
+      },
+      "poetry-core": {
+        "is_direct": false,
+        "sha256": "bdfce710edc10bfcf9ab35041605c480829be4ab23f5bc01202cfe5db8f125ab",
+        "type": "url",
+        "url": "https://files.pythonhosted.org/packages/c7/d8/bb2f602f5e012e177e1c8560125f9770945d36622595990cf1cb794477c2/poetry_core-2.2.1-py3-none-any.whl",
+        "version": "2.2.1"
+      },
+      "protobuf": {
+        "is_direct": false,
+        "sha256": "a55c48f2a2092d8e213bd143474df33a6ae751b781dd1d1f4d953c128a415b25",
+        "type": "url",
+        "url": "https://files.pythonhosted.org/packages/4c/98/db690e43e2f28495c8fc7c997003cbd59a6db342914b404e216c9b6791f0/protobuf-5.27.3-cp38-abi3-manylinux2014_x86_64.whl",
+        "version": "5.27.3"
+      },
+      "psutil": {
+        "is_direct": false,
+        "sha256": "5fd9a97c8e94059b0ef54a7d4baf13b405011176c3b6ff257c247cae0d560ecd",
+        "type": "url",
+        "url": "https://files.pythonhosted.org/packages/19/74/f59e7e0d392bc1070e9a70e2f9190d652487ac115bb16e2eff6b22ad1d24/psutil-6.0.0-cp36-abi3-manylinux_2_12_x86_64.manylinux2010_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+        "version": "6.0.0"
+      },
+      "pycparser": {
+        "is_direct": false,
+        "sha256": "e5c6e8d3fbad53479cab09ac03729e0a9faf2bee3db8208a550daf5af81a5934",
+        "type": "url",
+        "url": "https://files.pythonhosted.org/packages/a0/e3/59cd50310fc9b59512193629e1984c1f95e5c8ae6e5d8c69532ccc65a7fe/pycparser-2.23-py3-none-any.whl",
+        "version": "2.23"
+      },
+      "pynacl": {
+        "is_direct": false,
+        "sha256": "49c336dd80ea54780bcff6a03ee1a476be1612423010472e60af83452aa0f442",
+        "type": "url",
+        "url": "https://files.pythonhosted.org/packages/12/30/5efcef3406940cda75296c6d884090b8a9aad2dcc0c304daebb5ae99fb4a/pynacl-1.6.0-cp38-abi3-manylinux_2_34_x86_64.whl",
+        "version": "1.6.0"
+      },
+      "remarkable-update-fuse": {
+        "is_direct": false,
+        "sha256": "3387d1aaaeee181db0d220d543fd74e8ad29e1f21c43a42f41f61f4674c433c4",
+        "type": "url",
+        "url": "https://files.pythonhosted.org/packages/b9/55/359df8a4aba94ee3822f9aaea2775f02bab54a44a8d0475a7b7ee3c94b4c/remarkable_update_fuse-1.2.4-cp312-cp312-manylinux_2_34_x86_64.whl",
+        "version": "1.2.4"
+      },
+      "remarkable-update-image": {
+        "is_direct": false,
+        "sha256": "a96ca3d737336afe7a494f415ef69bc7542dd4fb517331e11ceb6477749a74d0",
+        "type": "url",
+        "url": "https://files.pythonhosted.org/packages/ac/86/5c33c86e4a6c24ccdd813ce471d4c37d1160ac9ebdbc12010d89275ef4a8/remarkable_update_image-1.1.5-cp312-cp312-manylinux_2_34_x86_64.whl",
+        "version": "1.1.5"
+      },
+      "requests": {
+        "is_direct": false,
+        "sha256": "27babd3cda2a6d50b30443204ee89830707d396671944c998b5975b031ac2b2c",
+        "type": "url",
+        "url": "https://files.pythonhosted.org/packages/7c/e4/56027c4a6b4ae70ca9de302488c5ca95ad4a39e190093d6c1a8ace08341b/requests-2.32.4-py3-none-any.whl",
+        "version": "2.32.4"
+      },
+      "urllib3": {
+        "is_direct": false,
+        "sha256": "e6b01673c0fa6a13e374b50871808eb3bf7046c4b125b216f6bf1cc604cff0dc",
+        "type": "url",
+        "url": "https://files.pythonhosted.org/packages/a7/c2/fe1e52489ae3122415c51f387e221dd0773709bad6c6cdaa599e8a2c5185/urllib3-2.5.0-py3-none-any.whl",
+        "version": "2.5.0"
+      }
+    },
+    "targets": {
+      "default": {
+        "bcrypt": [],
+        "cachetools": [],
+        "certifi": [],
+        "cffi": [
+          "pycparser"
+        ],
+        "charset-normalizer": [],
+        "crcmod": [],
+        "cryptography": [
+          "cffi"
+        ],
+        "ext4": [
+          "cachetools",
+          "crcmod"
+        ],
+        "fuse-python": [],
+        "idna": [],
+        "indexed-gzip": [],
+        "libconf": [],
+        "loguru": [],
+        "paramiko": [
+          "bcrypt",
+          "cryptography",
+          "pynacl"
+        ],
+        "poetry-core": [],
+        "protobuf": [],
+        "psutil": [],
+        "pycparser": [],
+        "pynacl": [
+          "cffi"
+        ],
+        "remarkable-update-fuse": [
+          "fuse-python",
+          "remarkable-update-image"
+        ],
+        "remarkable-update-image": [
+          "cryptography",
+          "ext4",
+          "indexed-gzip",
+          "libconf",
+          "protobuf"
+        ],
+        "requests": [
+          "certifi",
+          "charset-normalizer",
+          "idna",
+          "urllib3"
+        ],
+        "urllib3": []
+      }
+    }
+  },
+  "invalidationHash": "b83e700a6942c39165376579e4031b17a3c2d57fc53ad70175fd3c2500135c27"
+}
